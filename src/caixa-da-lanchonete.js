@@ -108,7 +108,5 @@ class CaixaDaLanchonete {
     }
 
 }
-//const caixa = new CaixaDaLanchonete();
-//console.log(caixa.calcularValorDaCompra("debito", ["sanduiche,1", "combo1,1"]));
 
 export { CaixaDaLanchonete };
